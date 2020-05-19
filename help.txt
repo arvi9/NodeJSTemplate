@@ -1,0 +1,4 @@
+If you run both npm dev-server and dev-bundle scripts (in 2 separate terminals):
+$ npm run dev-server
+$ npm run dev-bundle
+Then open up your browser on http://localhost:4242/, you should see the React application rendered. This application should also be rendered if you disable JavaScript in your browser!
